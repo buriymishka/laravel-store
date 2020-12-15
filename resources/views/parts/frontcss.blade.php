@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="/css/front.min.css">

@@ -1,0 +1,14 @@
+<table>
+    <tr>
+        <th>Имя</th>
+        <td>{{$mail->name}}</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>{{$mail->email}}</td>
+    </tr>
+    <tr>
+        <th>Текст</th>
+        <td>{{$mail->text}}</td>
+    </tr>
+</table>
